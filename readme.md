@@ -1,4 +1,4 @@
-Repositorio para modelos de detecção e classificação de objetos para a demonstração do projeto Brasil 6G.
+Repositorio com modelos de detecção e classificação de objetos para a demonstração do projeto Brasil 6G.
 
 1) A pasta victor_IA contém todos os arquivos usados para treinar e validar uma rede SSD_MobileNet para detecção. As instruções para treinamento da SSD_MobileNet estão no arquivo .ipynb
 
